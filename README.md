@@ -4,7 +4,7 @@ Celem tego repozytorium jest zapoznanie się z gitem.
 
 ## Wymagania
 
-Nie ma żadnych.
+* Node.js 8.6.0
 
 ## Licencja
 
