@@ -8,7 +8,7 @@ Celem tego repozytorium jest zapoznanie się z gitem.
 
 ## Licencja
 
-MIT 2
+CC
 
 ## Autor
 
