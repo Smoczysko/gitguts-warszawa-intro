@@ -8,7 +8,7 @@ Celem tego repozytorium jest zapoznanie się z gitem.
 
 ## Licencja
 
-Apache Commons 2.
+MIT 2
 
 ## Autor
 
