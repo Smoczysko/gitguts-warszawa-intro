@@ -14,6 +14,7 @@ CC
 
 Ten projekt jest tworzony przeze mnie! :)
 
+### Dziękuję!!!
 ## Koniec
 
 To już ostatnie zadanie - wytrwałości (3 minuty).
