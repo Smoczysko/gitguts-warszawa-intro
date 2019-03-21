@@ -13,3 +13,7 @@ CC
 ## Autor
 
 Ten projekt jest tworzony przeze mnie! :)
+
+## Koniec
+
+To już ostatnie zadanie - wytrwałości (3 minuty).
